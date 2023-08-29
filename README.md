@@ -29,9 +29,10 @@ Classical bits and qubits are fundamental units of information, but they differ 
 ## Qubits Representation
 
 **Dirac notation:** Dirac notation is a standard mathematical notation used to represent quantum states, operators, and measurements. In this notation, a quantum state (ket) is represented as |ψ⟩, and its complex conjugate is called a bra, represented as ⟨ψ|. For example, the notation |0⟩ represents the quantum state of a qubit in the "0" state.
+
 **Quantum State Vector:** Quantum states are often represented using state vectors in a complex vector space. For a single qubit, the state vector |ψ⟩ can be written as a linear combination of basis states:
 
-|ψ⟩ = α|0⟩ + β|1⟩
+  |ψ⟩ = α|0⟩ + β|1⟩
 
 Here, α and β are complex probability amplitudes, and |0⟩ and |1⟩ are the basis states representing the "0" and "1" states of the qubit.
 
