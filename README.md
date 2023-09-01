@@ -36,3 +36,10 @@ Classical bits and qubits are fundamental units of information, but they differ 
 
 Here, α and β are complex probability amplitudes, and |0⟩ and |1⟩ are the basis states representing the "0" and "1" states of the qubit.
 
+**CNOT Gate:** The CNOT gate works on two qubits: qubit A, which is referred to as the control qubit,
+and qubit B, which is the target qubit. On application of a CNOT gate, the control qubit
+state remains unchanged. The target qubit state is flipped in case the control qubit is in
+state ∣1⟩.
+
+
+
