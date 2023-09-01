@@ -41,5 +41,7 @@ and qubit B, which is the target qubit. On application of a CNOT gate, the contr
 state remains unchanged. The target qubit state is flipped in case the control qubit is in
 state ∣1⟩.
 
+![Image](https://github.com/AniketP04/Quantum-Cryptography/blob/main/assets/CNOT.png)
+
 
 
