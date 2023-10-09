@@ -1,4 +1,4 @@
-# Quantum Cryptography
+# Quantums Cryptography
 
 The goal of quantum cryptography is to make it possible for two users to communicate in a way that is more secure than the guarantees provided by conventional encryption. In the past, cryptographic security was based on mathematics and took into consideration our current, limited capacity for calculation. The most recent innovation that appears to ensure privacy even when assuming eavesdroppers with infinite processing capacity is quantum cryptography, which employs photons and depends on the principles of quantum physics instead of "extremely large numbers."
 
