@@ -4,7 +4,7 @@ The goal of quantum cryptography is to make it possible for two users to communi
 
 ![qkd](https://github.com/VBPMP/Quantum-Cryptography/assets/125212752/f1faf88c-6477-45e4-8acf-f77fa65f51be)
 
-Stephen Weisner initially put out the idea of quantum cryptography in his early 1970s paper "Conjugate Coding". Two scientists, Bennet and Brassard, who were familiar with Weisner's theories, were prepared to submit their own ideas by the time the proposal was published in Sigact News in 1983. They created the "BB84," the first quantum cryptography protocol, in 1984. Based on this, the first experimental prototype was created in 1991. It worked across a 32-centimeter range. The technology has improved through time, and the distance has grown to km.
+Stephen Weisner initially put out the idea of quantum cryptography in his early 1970s paper "Conjugate Coding". Two scientists, Bennet and Brassard, who were familiar with Weisner's theories, were prepared to submit their own ideas by the time the proposal was published in Sigact News in 1983. They created the "BB84," the first quantum cryptography protocol, in 1984. Based on this, the first experimental prototype was created in 1991. It worked across a 32-centimeter range. The technology has improved through time, and the distance has grown to KM.
 
 > **State Vectors:** For n qubits, there are $2^n$ possible outcomes, and we can store these amplitudes in lists of length which we call vectors. Since these vectors describe the state of our qubits, we call them “state vectors”.
 
